@@ -66,9 +66,3 @@ function viewOwnedItems(address account) external view returns (string memory ou
     // Retrieve and format owned item quantities
 }
 ```
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Please replace `[Your Name]` with your actual name or preferred attribution. You can also provide additional sections such as "Usage," "Contributing," and "Acknowledgments" based on your project's needs.
